@@ -26,6 +26,13 @@
             "program": "${fileDirname}/romanToInt.go"
         },
         {
+            "name": "prefix",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/commonPrefix.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
