@@ -19,6 +19,13 @@
             "program": "${fileDirname}/removeElementArray.go"
         },
         {
+            "name": "roman",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/romanToInt.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
