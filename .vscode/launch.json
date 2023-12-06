@@ -47,6 +47,13 @@
             "program": "${fileDirname}/palindrome.go"
         },
         {
+            "name": "subSeq",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/subSequence.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
