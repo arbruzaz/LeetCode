@@ -5,8 +5,8 @@ import (
 )
 
 /*
-58. Length of Last Word
-https://leetcode.com/problems/length-of-last-word
+28. Find The Index of the First in String
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
 */
 
 func strStr(haystack string, needle string) int {
