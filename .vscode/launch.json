@@ -33,6 +33,13 @@
             "program": "${fileDirname}/commonPrefix.go"
         },
         {
+            "name": "haystack",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/findString.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
