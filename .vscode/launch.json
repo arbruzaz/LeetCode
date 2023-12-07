@@ -68,6 +68,13 @@
             "program": "${fileDirname}/isomorphic.go"
         },
         {
+            "name": "wordPattern",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/wordPattern.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
