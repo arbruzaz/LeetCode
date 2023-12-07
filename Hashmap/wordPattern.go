@@ -45,15 +45,6 @@ func wordPattern(pattern string, s string) bool {
 	return true
 }
 
-func findKeyByValue(inputMap map[byte]string, targetValue string) bool {
-	for _, value := range inputMap {
-		if value == targetValue {
-			return true
-		}
-	}
-	return false
-}
-
 func main() {
 	pattern := "abc"
 	s := "abc"
