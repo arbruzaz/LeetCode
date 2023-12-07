@@ -61,6 +61,13 @@
             "program": "${fileDirname}/ransomNote.go"
         },
         {
+            "name": "isomorphic",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/isomorphic.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
