@@ -54,6 +54,13 @@
             "program": "${fileDirname}/subSequence.go"
         },
         {
+            "name": "ransom",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}/ransomNote.go"
+        },
+        {
             "name": "removeDeplicate",
             "type": "go",
             "request": "launch",
