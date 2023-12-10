@@ -5,11 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "twoSum",
+            "name": "containDuplicate",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${fileDirname}/twoSum.go"
+            "program": "${fileDirname}/containDuplicate.go"
         },
         {
             "name": "removeDeplicate",
