@@ -5,74 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "merge",
+            "name": "twoSum",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${fileDirname}/mergeSortArray.go"
-        },
-        {
-            "name": "removeElement",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/removeElementArray.go"
-        },
-        {
-            "name": "roman",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/romanToInt.go"
-        },
-        {
-            "name": "prefix",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/commonPrefix.go"
-        },
-        {
-            "name": "haystack",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/findString.go"
-        },
-        {
-            "name": "palindrome",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/palindrome.go"
-        },
-        {
-            "name": "subSeq",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/subSequence.go"
-        },
-        {
-            "name": "ransom",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/ransomNote.go"
-        },
-        {
-            "name": "isomorphic",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/isomorphic.go"
-        },
-        {
-            "name": "wordPattern",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${fileDirname}/wordPattern.go"
+            "program": "${fileDirname}/twoSum.go"
         },
         {
             "name": "removeDeplicate",
