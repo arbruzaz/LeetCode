@@ -5,11 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "linkedlist",
+            "name": "remove",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${fileDirname}/mergeTwpSortedLists.go"
+            "program": "${fileDirname}/removeDuplicate2.go"
         },
         {
             "name": "removeDeplicate",
